@@ -10,3 +10,8 @@
     Project untuk memprediksi gambar (Rock, Paper, Scissors)
   </p>
 </div>
+
+## Author : Namirah Rahmah Putri_202010370311204 
+
+## DATASET 
+    <img src="dataset.png" alt="Logo" width="180" height="180">
