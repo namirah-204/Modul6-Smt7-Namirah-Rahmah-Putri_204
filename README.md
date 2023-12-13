@@ -14,5 +14,5 @@
 ## Author : Namirah Rahmah Putri_202010370311204 
 
 ## DATASET 
-   !(picture/dataset.png)
+   ![Alt Text](picture/dataset.png)
 
