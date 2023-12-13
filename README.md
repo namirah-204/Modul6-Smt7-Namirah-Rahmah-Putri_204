@@ -14,5 +14,8 @@
 ## Author : Namirah Rahmah Putri_202010370311204 
 
 ## DATASET 
-   ![Alt Text](picture/dataset.png)
+<div>
+    <img src="picture/dataset.png" alt="dataset" width="75%">
+</div>
+
 
