@@ -14,4 +14,5 @@
 ## Author : Namirah Rahmah Putri_202010370311204 
 
 ## DATASET 
-    <img src="picture/dataset.png" alt="Logo" width="180" height="180">
+   !(picture/dataset.png)
+
