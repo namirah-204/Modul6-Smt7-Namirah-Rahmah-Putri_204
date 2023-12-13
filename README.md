@@ -15,7 +15,7 @@
 
 ## DATASET 
 <div>
-    <img src="picture/dataset.png" alt="dataset" width="75%">
+    <img src="picture/dataset.jpeg" alt="dataset" width="75%">
 </div>
 
 
