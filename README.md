@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="logo leta.png" alt="Logo" width="360" height="180">
+    <img src="logo umm.png" alt="Logo" width="360" height="180">
 
 <h1 align="center">Rock, Paper, Scissors Prediction</h1>
   <p align="center">
