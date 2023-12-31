@@ -1,4 +1,4 @@
-# UAP-Smt7-Namirah-Rahmah-Putri_204
+# UAP-Smt7-Namirah-Rahmah-Putri_202010370311204
 
 <!-- PROJECT LOGO -->
 <br />
@@ -15,8 +15,6 @@
 
 ## DATASET 
 Dataset yang digunakan dalam project ini berisi total 2520 gambar dengan pembagian setiap kelas berjumlah sama : 840 gambar (dibagi secara rata). [Link dataset dapat diakses di sini.](https://drive.google.com/drive/folders/1rpn0itTAOCvTuLxdJnnhGDH5OxkJGNCA?usp=drive_link)
-
-
 
 <div>
     <img src="picture/dataset.jpeg" alt="dataset" width="75%">
