@@ -7,7 +7,7 @@
 
 <h1 align="center">Rock, Paper, Scissors Prediction</h1>
   <p align="center">
-    Project untuk memprediksi gambar (Rock, Paper, Scissors)
+    Project ini berfokus untuk memprediksi gambar (Rock, Paper, Scissors) dengan model VGG19
   </p>
 </div>
 
