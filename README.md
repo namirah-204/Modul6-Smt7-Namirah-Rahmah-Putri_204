@@ -14,8 +14,7 @@
 ## Author : Namirah Rahmah Putri_202010370311204 
 
 ## DATASET 
-Dataset yang digunakan dalam project ini berisi total 2520 gambar dengan pembagian setiap kelas berjumlah sama : 840 gambar (dibagi secara rata. 
-The dataset used in this project contains a total of 2520 images with an equal proportion of images per class: 840 images for rock, paper, and scissors, respectively. [Link dataset dapat diakses di sini.](https://drive.google.com/drive/folders/1rpn0itTAOCvTuLxdJnnhGDH5OxkJGNCA?usp=drive_link)
+Dataset yang digunakan dalam project ini berisi total 2520 gambar dengan pembagian setiap kelas berjumlah sama : 840 gambar (dibagi secara rata). [Link dataset dapat diakses di sini.](https://drive.google.com/drive/folders/1rpn0itTAOCvTuLxdJnnhGDH5OxkJGNCA?usp=drive_link)
 
 
 
