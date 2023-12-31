@@ -20,4 +20,11 @@ Dataset yang digunakan dalam project ini berisi total 2520 gambar dengan pembagi
     <img src="picture/dataset.jpeg" alt="dataset" width="75%">
 </div>
 
+## PREPROCESSING 
+Dataset ini terbagi menjadi 3 set (train:80, test:10, validation:10)
+```python
+splitfolders.ratio("Dataset/Images/rps/", output="Dataset/Images/rps_split",
+    seed=1337, ratio=(.8, .1, .1), group_prefix=None, move=False)
+```
+
 
