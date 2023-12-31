@@ -7,7 +7,7 @@
 
 <h1 align="center">Rock, Paper, Scissors Prediction</h1>
   <p align="center">
-    Project ini berfokus untuk memprediksi gambar (Rock, Paper, Scissors) dengan model VGG19
+    Project ini berfokus untuk memprediksi gambar (Rock, Paper, Scissors) dengan pre-trained model VGG-16
   </p>
 </div>
 
@@ -43,6 +43,13 @@ Selanjutnya, data ini diaugmentasi dengan parameter :
 
 <div>
     <img src="picture/augmentasi.png" alt="dataset yang diaugmentasi" width="75%">
+</div>
+
+## DEEP LEARNING MODEL 
+Project ini menggunakan training VGG-16. VGG-16 adalah sebuah arsitektur deep convolutional neural network yang terdiri atas 16 layer dan merupakan salah satu arsitektur paling awal yang digunakan dalam transfer learning.
+
+<div>
+    <img src="picture/Arsitektur Model VGG-16.png" alt="arsitektur vgg-16" width="75%">
 </div>
 
 
