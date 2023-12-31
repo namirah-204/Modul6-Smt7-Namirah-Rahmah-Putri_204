@@ -1,4 +1,4 @@
-# Modul6-Smt7-Namirah-Rahmah-Putri_204
+# Modul-Smt7-Namirah-Rahmah-Putri_204
 
 <!-- PROJECT LOGO -->
 <br />
