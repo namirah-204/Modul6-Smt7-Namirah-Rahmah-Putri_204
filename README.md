@@ -64,4 +64,20 @@ Setelah proses training, model ini akan di evaluasi dan didapatkan hasil akurasi
     <img src="picture/eval.png" alt="model evaluation" width="75%">
 </div>
 
+## TAMPILAN WEBSITE 
+1. Tampilan awal
+<div>
+    <img src="picture/eval.png" alt="model evaluation" width="75%">
+</div>
+
+2. Tampilan setelah menginputkan gambar
+<div>
+    <img src="picture/eval.png" alt="model evaluation" width="75%">
+</div>
+
+3. Tampilan ketika selesai memprediksi untuk menampilkan akurasi
+<div>
+    <img src="picture/eval.png" alt="model evaluation" width="75%">
+</div>
+
 
