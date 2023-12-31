@@ -41,5 +41,8 @@ Selanjutnya, data ini diaugmentasi dengan parameter :
 - height_shift_range=0.05
 - brightness_range=(1,1.1)
 
+<div>
+    <img src="picture/augmentasi.png" alt="dataset yang diaugmentasi" width="75%">
+</div>
 
 
