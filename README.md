@@ -67,17 +67,18 @@ Setelah proses training, model ini akan di evaluasi dan didapatkan hasil akurasi
 ## TAMPILAN WEBSITE 
 1. Tampilan awal
 <div>
-    <img src="picture/src="1.png" alt="web1" width="75%">
+    <img src="picture/1" alt="arsitektur vgg-16" width="75%">
 </div>
 
 2. Tampilan setelah menginputkan gambar
 <div>
-    <img src="picture/src="2.png" alt="web2" width="75%">
+    <img src="picture/2.png" alt="arsitektur vgg-16" width="75%">
 </div>
+
 
 3. Tampilan ketika selesai memprediksi untuk menampilkan akurasi
 <div>
-    <img src="picture/src="3.png" alt="web3" width="75%">
+    <img src="picture/3.png" alt="arsitektur vgg-16" width="75%">
 </div>
 
 
