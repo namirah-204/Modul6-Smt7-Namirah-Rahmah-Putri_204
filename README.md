@@ -21,10 +21,25 @@ Dataset yang digunakan dalam project ini berisi total 2520 gambar dengan pembagi
 </div>
 
 ## PREPROCESSING 
-Dataset ini terbagi menjadi 3 set (train:80, test:10, validation:10)
+Dataset ini terbagi menjadi 3 set :
+- train : 80
+- test : 10
+- validation : 10
+  
 ```python
 splitfolders.ratio("Dataset/Images/rps/", output="Dataset/Images/rps_split",
     seed=1337, ratio=(.8, .1, .1), group_prefix=None, move=False)
 ```
+
+Selanjutnya, data ini diaugmentasi dengan parameter :
+- rotation_range=30
+- shear_range=0.2
+- zoom_range=0.025
+- horizontal_flip=True
+- vertical_flip=True
+- width_shift_range=0.05
+- height_shift_range=0.05
+- brightness_range=(1,1.1)
+
 
 
