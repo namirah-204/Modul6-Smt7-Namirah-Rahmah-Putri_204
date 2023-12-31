@@ -52,9 +52,16 @@ Project ini menggunakan training VGG-16. VGG-16 adalah sebuah arsitektur deep co
     <img src="picture/Arsitektur Model VGG-16.png" alt="arsitektur vgg-16" width="75%">
 </div>
 
-### Model Training
+### MODEL TRAINING
 |   Training and Validation accuracy | Training and Validation loss |
 | ------------- | ------------- |
 | ![](picture/accuracy.png)  | ![](picture/loss.png)  |
+
+## MODEL EVALUATION 
+Setelah proses training, model ini akan di evaluasi dan didapatkan hasil akurasi sebanyak 99 % 
+
+<div>
+    <img src="picture/eval.png" alt="model evaluation" width="75%">
+</div>
 
 
